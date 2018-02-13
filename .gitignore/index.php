@@ -99,14 +99,9 @@
                  </div>
 
                  <div id='builidng-img'>
-                   <img src="images/buildingcutout.png" usemap="#image-map">
+                   <img src="images/buildingcutout.png">
 
-                   <!-- <map name="image-map">
-                        <area target="" alt="" title="Offices" data-name="Offices</br> click to Explore" href="" coords="118,1186,378,1072" shape="rect">
-                        <area target="" alt="" title="Residential" data-name="Residential </br> click to Explore" href="" coords="318,400,88,504" shape="rect">
-                        <area target="" alt="" title="Amenties" data-name="Amenties </br> click to Explore " href="" coords="1149,757,1407,865" shape="rect">
-                        <area target="" alt="" title="showrooms" href="" data-name="showrooms </br> click to Explore" coords="1132,1340,1367,1244" shape="rect">
-                    </map>-->
+                  
 
 
                  </div>
@@ -123,7 +118,7 @@
     </body>
     
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script type="text/javascript" src="js/jquery.rwdImageMaps.js"></script>
+  
     <script src="js/script.js"></script>
 
 </html>
